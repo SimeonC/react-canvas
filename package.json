@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/Flipboard/react-canvas.git"
   },
-  "scripts": {
-    "start": "./node_modules/.bin/gulp",
-    "test": "./node_modules/.bin/jest"
-  },
   "keywords": [
     "react",
     "canvas"
